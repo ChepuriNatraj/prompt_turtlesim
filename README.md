@@ -12,7 +12,7 @@ Clone this repository into your ROS2 workspace's `src` directory:
 
 ```bash
 cd ~/ros2_ws/src
-git clone <repository-url> prompt_turtlesim
+git clone https://github.com/ChepuriNatraj/prompt_turtlesim.git
 ```
 
 Then build the workspace:
